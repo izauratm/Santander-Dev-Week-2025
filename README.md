@@ -188,11 +188,4 @@ Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias, sug
 
 📎 Link do curso: [DIO.me](https://web.dio.me/home) 
 
----
-
-### Licença
-
-Este projeto está licenciado sob os termos da [Licença MIT](LICENSE).
-
-<img alt="Static Badge" src="https://img.shields.io/badge/license-MIT-green">
 
