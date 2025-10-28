@@ -1,4 +1,4 @@
-# <img width="64" height="64" alt="desafio" src="https://github.com/user-attachments/assets/c6455b8f-1c5a-4775-8407-b8515e06ad3c" /> Desafio: Lab Publicando Sua API REST na Nuvem Usando Spring Boot 3 e Java 17 
+# <h1 align="center"><img width="64" height="64" alt="desafio" src="https://github.com/user-attachments/assets/c6455b8f-1c5a-4775-8407-b8515e06ad3c" /> Desafio: Lab Publicando Sua API REST na Nuvem Usando Spring Boot 3 e Java 17</h1>
 Este repositório reúne os principais aprendizados adquiridos durante o **Bootcamp GFT - Desenvolvimento Java com IA - Curso: Banco de Dados, Padrões de Projeto e APIs com Spring Boot** da plataforma DIO.me. 
 Este projeto foi desenvolvido como parte do desafio da Digital Innovation One (DIO), com o objetivo de aplicar os principais padrões de projeto na construção de uma API REST moderna utilizando **Java 17** e **Spring Boot 3**, aplicando boas práticas de arquitetura, documentação e persistência de dados.
 
